@@ -1,2 +1,2 @@
 # run-containers
-Script to run all docker containers in a selected directory.
+A .sh Script to run all docker containers in a selected directory.
